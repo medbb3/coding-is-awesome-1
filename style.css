@@ -1,0 +1,13 @@
+.nav .navbar-nav, .nav .navbar-nav li {
+  background-color: red;
+  color: red;
+}
+
+.navbar .navbar-default
+{
+  background-color: red;
+}
+
+a .navbar-brand {
+  color: red;
+}
