@@ -11,3 +11,10 @@
 a .navbar-brand {
   color: red;
 }
+
+
+.navbar-inverse
+
+{
+  background-color: red;
+}
